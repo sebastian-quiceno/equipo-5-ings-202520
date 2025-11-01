@@ -23,6 +23,9 @@
 
 # Estado del 31 de octubre
 
+<img width="1066" height="949" alt="image" src="https://github.com/user-attachments/assets/7c66e803-09e9-4b21-b9da-4c3a2e3382a2" />
 
 <img width="1848" height="744" alt="image" src="https://github.com/user-attachments/assets/3e5516dc-0058-4f74-8ad3-2ceddda224a6" />
+
+
 
