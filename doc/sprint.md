@@ -20,3 +20,9 @@
 <img width="1912" height="628" alt="image" src="https://github.com/user-attachments/assets/f3de894f-e41a-4da4-b257-8370f9ae62e8" />
 
 <img width="1902" height="630" alt="image" src="https://github.com/user-attachments/assets/bf76ef37-f8a6-4ee8-95a9-56f1ec19267a" />
+
+# Estado del 31 de octubre
+
+
+<img width="1848" height="744" alt="image" src="https://github.com/user-attachments/assets/3e5516dc-0058-4f74-8ad3-2ceddda224a6" />
+
