@@ -28,4 +28,9 @@
 <img width="1848" height="744" alt="image" src="https://github.com/user-attachments/assets/3e5516dc-0058-4f74-8ad3-2ceddda224a6" />
 
 
+# Estado del 7 de noviembre
+
+<img width="1128" height="849" alt="image" src="https://github.com/user-attachments/assets/914e9a70-57bc-4cd5-bef7-37a39289493d" />
+
+<img width="1919" height="620" alt="image" src="https://github.com/user-attachments/assets/8c0aa950-64a4-4918-aad0-8110a19efcbc" />
 
