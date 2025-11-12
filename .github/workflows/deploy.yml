@@ -13,6 +13,12 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
+      - name: Set up JDK 21
+        uses: actions/setup-java@v3
+        with:
+          java-version: '21'
+          distribution: 'temurin'
+
       # Opcional: verificar que el backend compila correctamente
       - name: Build with Maven
         working-directory: BackEnd
@@ -23,4 +29,5 @@ jobs:
         run: |
           echo "Desplegando en Render..."
           curl "https://api.render.com/deploy/srv-d49r526uk2gs739gcktg?key=gaMi_XObHs0"
+
 
