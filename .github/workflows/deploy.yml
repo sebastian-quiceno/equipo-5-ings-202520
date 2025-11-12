@@ -28,6 +28,7 @@ jobs:
       - name: Trigger Deploy on Render
         run: |
           echo "Desplegando en Render..."
-          curl "https://api.render.com/deploy/srv-d49r526uk2gs739gcktg?key=gaMi_XObHs0"
+          curl "https://api.render.com/deploy/srv-d4af243ipnbc739jmlc0?key=z8G2SlY81kI"
+
 
 
