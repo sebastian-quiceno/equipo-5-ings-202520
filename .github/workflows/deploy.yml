@@ -1,0 +1,25 @@
+name: CI/CD Render Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      # Opcional: verificar que el backend compila correctamente
+      - name: Build with Maven
+        working-directory: BackEnd
+        run: chmod +x mvnw && ./mvnw -B -DskipTests package
+
+      # Disparar el despliegue en Render directamente
+      - name: Trigger Deploy on Render
+        run: |
+          echo "Desplegando en Render..."
+          curl "https://api.render.com/deploy/srv-d49r526uk2gs739gcktg?key=gaMi_XObHs0"
