@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 public class PruebaController {
     @GetMapping("/probar")
     public String probar() {
-        return "Esto es una prueba de endPoint";
+        return "Esto es una prueba de endPoint, si esta leyendo esto es porque el workflow y el despliegue funcionan correctamente";
     }
     
 }
